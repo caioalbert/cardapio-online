@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const address = addressInput.value;
     const nameclient = nameclientInput.value;
     // Substitua 'seu_numero_whatsapp' pelo número de telefone para o qual deseja enviar o pedido
-    const whatsappLink = `https://wa.me/5581996791112/?text= %0A Cliente: ${nameclient} %0A Endereço: ${address}%0A _________________ %0A Pedido: %0A ${items} %0A Total: R$ ${total}`;
+    const whatsappLink = `https://wa.me/5581996791112/?text= %0A Cliente: ${nameclient} %0A Endereço: ${address}%0A _______________________  %0A Pedido: %0A ${items} %0A Total: R$ ${total}`;
 
     // Abra o link do WhatsApp em uma nova janela/tab
     window.open(whatsappLink, '_blank');
