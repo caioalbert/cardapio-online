@@ -10,11 +10,11 @@ body {
 }
 
 body {
-  background: #FF425E;
+  background: #ff8a42;
 }
 
 label {
-  color: #FFF;
+  color: #ffffff;
   display: block;
   margin-bottom: 6px;
 }
@@ -92,7 +92,7 @@ label {
   margin: 0.6rem 0;
   border-radius: 0 10px 10px 0;
   padding: 0.5rem;
-  color: #FF425E;
+  color: #ff8a42;
   width: max-content;
   font-weight: bold;
 }
@@ -145,8 +145,8 @@ label {
   width: 300px;
   height: max-content;
   border-radius: 8px;
-  box-shadow: 0 0 1px #411212;
-  background: #FF5C5C;
+  box-shadow: 0 0 1px #412512;
+  background: #ffa05c;
   padding: 1rem;
   display: none;
   margin-top: 1rem;
@@ -201,7 +201,7 @@ label {
 
 #list-btn:hover {
   background: #FFF;
-  color: #F22851;
+  color: #ffa05c;
 }
 
 #address-group {
@@ -217,12 +217,20 @@ label {
   color: #FFF;
 }
 
+#nameclient {
+  all: unset;
+  border: 1px solid #FFF;
+  border-radius: 8px;
+  padding: 0.2rem;
+  color: #FFF;
+}
+
 #btn-finish {
   all: unset;
   padding: 0.5rem 0;
   min-width: 115px;
   background: #FFF;
-  color: #F7466A;
+  color: #ffa05c;
   font-style: italic;
   font-weight: bold;
   border-radius: 0 0 0 10px;
@@ -233,12 +241,12 @@ label {
 }
 
 #btn-finish:hover {
-  background: #F22851;
-  color: #FFF;
+  background: #ffa05c;
+  color: #ffffff;
 }
 
 #btn-finish:active {
-  background: #AB243F;
+  background: #401b01;
 }
 
 @media (max-width: 720px) {
