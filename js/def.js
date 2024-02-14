@@ -8,17 +8,17 @@ category.add("Pasteis", "lanches");
 /*Carne de Sol,frango,carne moida,presunto,calabresa,catupiry,cheddar,crêem chesse,mussarela,coalho,bacon*/ 
 item.add("Pastel 3 Sabores", "Carne de Sol, Frango, Carne Moida, Presunto, Calabresa, Catupiry, Cheddar, Crêem Chesse, Mussarela, Coalho, Bacon.", 7.00, "Principal.jpeg", "lanches");
 item.add("Pastel 5 Sabores", "Carne de Sol, Frango, Carne Moida, Presunto, Calabresa, Catupiry, Cheddar, Crêem Chesse, Mussarela, Coalho, Bacon.", 9.00, "Principal.jpeg", "lanches");
-item.add("Pastel 7 Sabores", "Carne de Sol, Frango, Carne Moida, Presunto, Calabresa, Catupiry, Cheddar, Crêem Chesse, Mussarela, Coalho, Bacon.", 12.00, "principal.jpeg", "lanches");
-item.add("Pastel de Vento", "Só a Massa do Pastel.", 4.00, "principal.jpeg", "lanches");
+item.add("Pastel 7 Sabores", "Carne de Sol, Frango, Carne Moida, Presunto, Calabresa, Catupiry, Cheddar, Crêem Chesse, Mussarela, Coalho, Bacon.", 12.00, "Principal.jpeg", "lanches");
+item.add("Pastel de Vento", "Só a Massa do Pastel.", 4.00, "Principal.jpeg", "lanches");
 
 category.add("Salgados", "lanches2");
 item.add("Coxinha", "Massa de Batata, Frango.", 5.00, "coxinha.jpeg", "lanches2");
 item.add("Cachorro Quente", "Salsinha, Carnê Moída, ketchup ,Maionese, Mostarda, Cebola, Tomate, Batata Palha, Queijo Ralado, Milho, Ervilha.", 6.00, "cachorro quente.jpeg", "lanches2");
 /*Salsinha,Carnê moída,ketchup,Maionese,Mostarda,Cebola,Tomate,Batata palha,Queijo ralado,Milho e ervilha*/
 item.add("Empada de Frango", "Frango, Catupiry.", 5.00, "Empada de Frango.jpeg", "lanches2");
-item.add("Tapioca 2 Sabores", "Carne de Sol, Frango, Carne Moida, Presunto, Calabresa, Catupiry, Cheddar, Crêem Chesse, Mussarela, Coalho, Bacon.", 6.00, "Tapioca.jpeg", "lanches2");
+item.add("Tapioca 2 Sabores", "Carne de Sol, Frango, Carne Moida, Presunto, Calabresa, Catupiry, Cheddar, Crêem Chesse, Mussarela, Coalho, Bacon.", 6.00, "tapioca.jpeg", "lanches2");
 /*Carne de Sol,frango,carne moida,presunto,calabresa,catupiry,cheddar,crêem chesse,mussarela,coalho,bacon*/
-item.add("Tapioca 3 Sabores", "Carne de Sol, Frango, Carne Moida, Presunto, Calabresa, Catupiry, Cheddar, Crêem Chesse, Mussarela, Coalho, Bacon.", 7.00, "Tapioca.jpeg", "lanches2");
+item.add("Tapioca 3 Sabores", "Carne de Sol, Frango, Carne Moida, Presunto, Calabresa, Catupiry, Cheddar, Crêem Chesse, Mussarela, Coalho, Bacon.", 7.00, "tapioca.jpeg", "lanches2");
 
 category.add("Sopas", "lanches3");
 item.add("Sopa de Carne P", "Carne, Caldo de Carne, Legumes, Vegetais, Temperos, e Adicionais (Macarrão, Arroz).", 6.00, "sopa de carne.jpeg", "lanches3");
